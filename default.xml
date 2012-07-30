@@ -4,7 +4,7 @@
   <remote name="github"
            fetch="git://github.com/" /> 
            
-  <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="jb">
+  <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="master">
   </project>
 
 
