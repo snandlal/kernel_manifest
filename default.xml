@@ -8,6 +8,6 @@
   </project>
 
 
-  <project path="kernel" name="snandlal/android-kernel" remote="github" revision="S5PC110-ICS" />
+  <project path="kernel" name="snandlal/android-kernel" remote="github" revision="ics-mod" />
 
 </manifest>
