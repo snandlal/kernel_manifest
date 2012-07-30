@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github"
+           fetch="git://github.com/" /> 
+           
+  <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="jb">
+  </project>
+
+
+  <project path="kernel" name="snandlal/android-kernel" remote="github" revision="S5PC110-ICS" />
+
+</manifest>
