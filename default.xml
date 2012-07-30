@@ -9,5 +9,6 @@
 
 
   <project path="kernel" name="snandlal/android-kernel" remote="github" revision="ics-mod" />
+  <project path="prebuilt" name="snandlal/prebuilt" remote="github" revision="ics" />
 
 </manifest>
