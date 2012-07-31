@@ -8,7 +8,7 @@
   </project>
 
 
-  <project path="kernel" name="snandlal/android-kernel" remote="github" revision="linux-3.0.y" />
+  <project path="kernel" name="snandlal/nexus_kernel" remote="github" revision="master" />
   <project path="prebuilt" name="snandlal/prebuilt" remote="github" revision="ics" />
 
 </manifest>
