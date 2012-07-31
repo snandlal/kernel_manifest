@@ -8,7 +8,7 @@
   </project>
 
 
-  <project path="kernel" name="snandlal/android-kernel" remote="github" revision="ics-mod" />
+  <project path="kernel" name="snandlal/linux_samsung" remote="github" revision="nexus-s-voodoo" />
   <project path="prebuilt" name="snandlal/prebuilt" remote="github" revision="ics" />
 
 </manifest>
