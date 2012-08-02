@@ -8,6 +8,5 @@
   </project>
 
   <project path="nexus_kernel" name="snandlal/android_kernel_samsung_crespo" remote="github" revision="jellybean" />
-  <project path="prebuilt" name="snandlal/prebuilt" remote="github" revision="jellybean" />
 
 </manifest>
