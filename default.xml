@@ -8,6 +8,6 @@
   </project>
 
   <project path="nexus_kernel" name="snandlal/android-kernel" remote="github" revision="S5PC110-JB" />
-  <project path="prebuilt" name="snandlal/prebuilt" remote="github" revision="ics" /
+  <project path="prebuilt" name="snandlal/prebuilt" remote="github" revision="ics" />
 
 </manifest>
