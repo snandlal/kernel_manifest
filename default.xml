@@ -7,6 +7,6 @@
   <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="master">
   </project>
 
-  <project path="nexus_kernel" name="VanillaAOSP/kernel" remote="github" revision="S5PC110-JB" />
+  <project path="nexus_kernel" name="VanillaAOSP/kernel" remote="github" revision="jb-mod" />
 
 </manifest>
