@@ -10,6 +10,6 @@
   </project>
 
   <project path="nexus_kernel" name="VanillaAOSP/kernel" remote="github" revision="glados" />
-  <project path="samsung" name="kernel/samsung" remote="aosp" />
+  <project path="samsung" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb" />
 
 </manifest>
