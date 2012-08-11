@@ -3,10 +3,13 @@
 
   <remote name="github"
            fetch="git://github.com/" /> 
+  <remote name="aosp"
+           fetch="https://android.googlesource.com/"
            
   <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="master">
   </project>
 
   <project path="nexus_kernel" name="VanillaAOSP/kernel" remote="github" revision="glados" />
+  <project path="samsung" name="kernel/samsung" remote="aosp" />
 
 </manifest>
