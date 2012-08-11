@@ -4,7 +4,7 @@
   <remote name="github"
            fetch="git://github.com/" /> 
   <remote name="aosp"
-           fetch="https://android.googlesource.com/"
+           fetch="https://android.googlesource.com/" />
            
   <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="master">
   </project>
