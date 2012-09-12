@@ -11,6 +11,5 @@
 
   <project path="samsung_kernel" name="VanillaAOSP/samsung_kernel" remote="github" revision="master" />
   <project path="aosp" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb" />
-  <project path="nexus_kernel" name="VanillaAOSP/nexus_kernel" remote="github" revision="glados" />
 
 </manifest>
