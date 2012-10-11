@@ -9,7 +9,8 @@
   <project path="kernel_manifest" name="snandlal/kernel_manifest" remote="github" revision="master">
   </project>
 
-  <project path="samsung_kernel" name="VanillaAOSP/samsung_kernel" remote="github" revision="master" />
-  <project path="aosp" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb" />
+  <project path="samsung_kernel" name="VanillaAOSP/samsung_kernel" remote="github" revision="idle2" />
+  <project path="jb" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb" />
+  <project path="jb-mr0" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb-mr0" />
 
 </manifest>
