@@ -10,7 +10,6 @@
   </project>
 
   <project path="samsung_kernel" name="VanillaAOSP/samsung_kernel" remote="github" revision="idle2" />
-  <project path="jb" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb" />
-  <project path="jb-mr0" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb-mr0" />
+  <project path="jb" name="kernel/samsung" remote="aosp" revision="android-samsung-3.0-jb-mr0" />
 
 </manifest>
